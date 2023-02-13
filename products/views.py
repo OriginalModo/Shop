@@ -8,4 +8,4 @@ def index(request):
 
 
 def products(request):
-    return render(request, 'products/index.html')
+    return render(request, 'products/products.html')
